@@ -5,6 +5,3 @@ This modpack replace the classic intro for a fancy new Mojang animation, followe
 
 ![Mojang Animation](https://cdn.modrinth.com/data/cached_images/7847152e09bd059ba341fb4645db2a2d502e9184.webp)
 ![Cave Animation](https://i.imgur.com/6TLYTUj.png)
-</details>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oKInHAuZvh8?si=FbFrMtrRlPZQUDod" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vuR4al8cakI?si=Z20SbEe0dmMT5PTh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
